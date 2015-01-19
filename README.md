@@ -12,8 +12,8 @@ HappyPuppy is a work-in-progress.
 ###Details
 - [Technology](#technology)
 - [Features](#features)
-- [Screenshots](#screenshots)
-- [Installation](#install)
+- [Screenshots](#screenshot)
+- [Installation](#installation)
 
 
 ###Technology
@@ -28,17 +28,12 @@ HappyPuppy uses a number of open source projects to work properly:
 *	jQuery <br>
 
 
-### Features
+###Features
 Single Page Application <br>
 
-### Screenshot
+###Screenshots
 ![HappyPuppy Screenshot](/public/images/hpuppy3.png)
 
-
-
-### Installation
-
-Installing/Running ShowHound and it's dependencies:
 
 #Browserify-Seed
 > A seed project to get started with Browserify and Famo.us
