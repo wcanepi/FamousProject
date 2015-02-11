@@ -25,7 +25,7 @@ HappyPuppy uses a number of open source projects to work properly:
 *	AngularJS <br>
 *	Node.js <br>
 * HTML/CSS <br>
-*	jQuery <br>
+
 
 
 ###Features
